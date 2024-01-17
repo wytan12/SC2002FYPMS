@@ -19,8 +19,8 @@ External JARs can be found in the folder "External JARs"
 
 
 ## File Directory
-A27_grp5.mp4 - Assignment Video
-A27_grp5.zip - Assignment Code
-SC2002 Assignment_Installation.docx - FYPMS installation guide
-External JARs.zip - External JARs required for FYPMS
-UMLDiagram.jpg - UML Diagram of our code implementation
+A27_grp5.mp4 - Assignment Video <br>
+A27_grp5.zip - Assignment Code <br>
+SC2002 Assignment_Installation.docx - FYPMS installation guide <br>
+External JARs.zip - External JARs required for FYPMS <br>
+UMLDiagram.jpg - UML Diagram of our code implementation <br>
