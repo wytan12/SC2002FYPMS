@@ -2,7 +2,7 @@
 
 SC2002 Object-Oriented Design & Programming Assignment
 
-Final Year Project Management System (FYPMS) is an appliation for staffs and students to manage FYP
+Final Year Project Management System (FYPMS) is an application for staffs and students to manage FYP
 
 ## Installation
 Installation instructions can be found in the file SC2002_Assignment_Installation.docx
